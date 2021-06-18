@@ -8,3 +8,17 @@ body,
 html {
   height: 100%;
 }
+
+.legend {
+  padding: 5px;
+  line-height: 20px;
+  background-color: rgb(185, 240, 235);
+  height: 100px;
+}
+
+i {
+  float: left;
+  width: 15px;
+  height: 15px;
+  padding: 2px;
+}
